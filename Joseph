@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Joseph's Bio Page</title>
+    </head>
+    <body>
+        <div ID="dividerWhole">
+                    <h1>Student Biography</h1> 
+    
+                    
+                
+                <div id="dividerBody">
+                    <div id="dividerLeft">
+                         <h2>Joseph Williamson</h2>
+                         <img src="./Family Photo.jpg" alt="Joe's Beautiful Family">
+                    </div>
+                    <div id="dividerCenter">
+                        <p>Joseph was in sales for many years, so it's pretty obvious why he's here.</p> 
+                        <p>Using the power of his amazing daughter (pictured left; ain't she cute?) for motivation, he'll become a Coding Superstar!!</p>
+                    </div>
+                    <div id="dividerRight">
+                            <h2>Contact Information</h2>
+                                <ul>
+                                    <li style=font-size:x-large><a href="http://www.linkedin.com/in/joseph-williamson-a8b42584" target="_blank">LinkedIn</a></li>
+                                    <li style=font-size:x-large><a href="https://github.com/jmbw88" target="_blank">GitHub</a></li>
+                                    <li style=font-size:x-large><a href="mailto:jmbw1988@gmail.com" target="_blank"> Email</a></li>
+                                </ul>
+                    </div>
+            </div>
+        </div>
+    </body>
+</html>
